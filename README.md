@@ -61,5 +61,5 @@ This is a simple React application that allows users to calculate their investme
 
 - [Olugbenga Ajewole](https://github.com/ajewoleOlugbenga)
 
-Feel free to reach out with any questions or feedback!
+Feel free to reach out with any questions or feedback! ₦
 
